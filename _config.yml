@@ -21,7 +21,6 @@ twitter_username: TomBearpark
 github_username: username
 minimal_mistakes_skin: default
 search: true
-logo: assets/images/Sunbear_opposing.pdf
 
 # Build settings
 markdown: kramdown
@@ -81,7 +80,7 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/TomBearpark/"
+      url: "https://twitter.com/TomBearpark"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
